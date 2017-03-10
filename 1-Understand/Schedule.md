@@ -25,13 +25,7 @@ and eliminate the need for guesswork later on.
 
 #### The Problem Statement *(10min)*
 
-#### Introduce Assumptions Board *(10min)*
-
-#### Introduce Back-burner Board *(10min)*
-
-#### Pitch Practice *(15min)*
-
-#### Existing research *(10min)*
+#### VOC Highlights *(10min)*
 
 Quickly identify existing research the client has done and determine when that
 research can be brought back during the definitions section of the day.
